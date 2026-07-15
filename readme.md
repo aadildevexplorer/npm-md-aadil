@@ -5,8 +5,7 @@ A lightweight slugify package for Node.js.
 ## Installation
 
 ```bash
-npm install simple-slugify
-```
+npm install md-aadil```
 
 ## Usage
 
