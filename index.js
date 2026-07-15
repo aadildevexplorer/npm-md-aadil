@@ -6,12 +6,12 @@ function slugify(text) {
   return text
     .trim()
     .toLowerCase()
-    .normalize("NFD")                     // Removes accents
+    .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
-    .replace(/[^a-z0-9\s-]/g, "")         // Remove special chars
-    .replace(/\s+/g, "-")                 // Spaces -> hyphen
-    .replace(/-+/g, "-")                  // Multiple hyphens -> one
-    .replace(/^-|-$/g, "");               // Remove leading/trailing hyphen
+    .replace(/[^a-z0-9\s-]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
 }
 
 module.exports = slugify;
