@@ -10,8 +10,7 @@ npm install md-aadil```
 ## Usage
 
 ```javascript
-const slugify = require("simple-slugify");
-
+const slugify = require("md-aadil");
 console.log(slugify("Hello World"));
 // hello-world
 
