@@ -1,4 +1,4 @@
-# simple-slugify
+# md-aadil
 
 A lightweight slugify package for Node.js.
 
