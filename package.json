@@ -1,0 +1,14 @@
+{
+  "name": "simple-slugify",
+  "version": "1.0.0",
+  "description": "A lightweight slugify package for Node.js",
+  "main": "index.js",
+  "keywords": [
+    "slug",
+    "slugify",
+    "seo",
+    "url"
+  ],
+  "author": "Mohammad Aadil",
+  "license": "MIT"
+}
