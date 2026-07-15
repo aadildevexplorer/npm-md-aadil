@@ -1,13 +1,15 @@
 {
-  "name": "simple-slugify",
+  "name": "md-aadil",
   "version": "1.0.0",
-  "description": "A lightweight slugify package for Node.js",
+  "description": "A lightweight slugify utility for Node.js applications.",
   "main": "index.js",
   "keywords": [
     "slug",
     "slugify",
     "seo",
-    "url"
+    "url",
+    "nodejs",
+    "utility"
   ],
   "author": "Mohammad Aadil",
   "license": "MIT"
