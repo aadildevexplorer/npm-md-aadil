@@ -111,7 +111,7 @@ my-first-blog-post
 Current Version
 
 ```
-1.0.2
+1.0.5
 ```
 
 ---
