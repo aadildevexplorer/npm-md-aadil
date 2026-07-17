@@ -35,8 +35,8 @@ console.log(slugify("Hello World"));
 console.log(slugify("Node.js & Express"));
 // nodejs-express
 
-console.log(slugify("Mohammad Aadil Khan"));
-// mohammad-aadil-khan
+console.log(slugify("Mohammad Aadil"));
+// mohammad-aadil
 
 console.log(slugify(" Café Déjà Vu "));
 // cafe-deja-vu
@@ -51,7 +51,7 @@ console.log(slugify(" Café Déjà Vu "));
 | `Hello World` | `hello-world` |
 | `Node.js & Express` | `nodejs-express` |
 | `MongoDB + React` | `mongodb-react` |
-| `Mohammad Aadil Khan` | `mohammad-aadil-khan` |
+| `Mohammad Aadil` | `mohammad-aadil` |
 | ` Café Déjà Vu ` | `cafe-deja-vu` |
 
 ---
